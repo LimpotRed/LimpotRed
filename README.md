@@ -60,6 +60,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LimpotRed/LimpotRed/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
+</div>
 
 ###
